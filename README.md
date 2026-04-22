@@ -23,10 +23,6 @@ Olivetti Faces — 400 grayscale images, 40 subjects, 10 images each.
 Images resized to 64x64 pixels.
 Pairs generated: positive (same subject) and negative (different subjects).
 
-## Context
-
-Academic project — Master's in Intelligent Information Systems (UMMTO, 2024).
-
 ## Setup
 
 pip install -r requirements.txt
